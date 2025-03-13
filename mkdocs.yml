@@ -10,13 +10,5 @@ theme:
   palette:
     primary: red
     accent: pink
-extra:
-  social:
-    - type: github
-      link: https://github.com/vinta
-    - type: twitter
-      link: https://twitter.com/vinta
-    - type: linkedin
-      link: https://www.linkedin.com/in/vinta
 nav:
   - "Life is short, you need Python.": "README.md"

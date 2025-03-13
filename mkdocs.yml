@@ -19,4 +19,4 @@ extra:
     - type: linkedin
       link: https://www.linkedin.com/in/vinta
 nav:
-  - "Life is short, you need Python.": "index.md"
+  - "Life is short, you need Python.": "README.md"

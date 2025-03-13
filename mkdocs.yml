@@ -11,4 +11,4 @@ theme:
     primary: red
     accent: pink
 nav:
-  - "Life is short, you need Python.": "README.md"
+  - "Life is short, you need Python.": "index.md"
